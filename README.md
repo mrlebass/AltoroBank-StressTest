@@ -30,7 +30,7 @@ Before running the tests, ensure that the following are installed:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/jmeter-project.git
+    git clone https://github.com/mrlebass/AltoroBank-StressTest.git
     cd jmeter-project
     ```
 
